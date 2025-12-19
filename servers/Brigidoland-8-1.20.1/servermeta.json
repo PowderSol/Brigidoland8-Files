@@ -1,0 +1,21 @@
+{
+  "$schema": "file:///C:/Users/Ale/Desktop/launcher/WAOS/schemas/ServerMetaSchema.schema.json",
+  "meta": {
+    "version": "0.0.1",
+    "name": "Brigidoland-8 (Minecraft 1.20.1)",
+    "description": "Que onda pibes hice un modpack devuelta -Atte, Powder",
+    "icon": "How to set the server icon: https://github.com/dscalzi/Nebula#setting-the-server-icon",
+    "address": "localhost:25565",
+    "discord": {
+      "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+      "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+    },
+    "mainServer": false,
+    "autoconnect": false
+  },
+  "forge": {
+    "version": "47.4.4"
+  },
+  "untrackedFiles": []
+}

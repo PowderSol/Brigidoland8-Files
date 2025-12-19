@@ -1,0 +1,27 @@
+{
+  "favorites": [],
+  "lookup_history": [],
+  "craft_history": [],
+  "recipe_defaults": {
+    "added": [],
+    "tags": {},
+    "resolutions": {},
+    "disabled": []
+  },
+  "hidden_stacks": [
+    "item:mekanism:meka_tool",
+    "item:mekanism:meka_tool{mekData:{EnergyContainers:[{Container:0b,stored:\"16000000\"}]}}",
+    "item:mekanism:atomic_disassembler",
+    "item:mekanism:atomic_disassembler{mekData:{EnergyContainers:[{Container:0b,stored:\"1000000\"}]}}",
+    "item:mekanism:mekasuit_helmet",
+    "item:mekanism:mekasuit_helmet{mekData:{EnergyContainers:[{Container:0b,stored:\"16000000\"}]}}",
+    "item:mekanism:mekasuit_bodyarmor",
+    "item:mekanism:mekasuit_bodyarmor{mekData:{EnergyContainers:[{Container:0b,stored:\"16000000\"}]}}",
+    "item:mekanism:mekasuit_pants",
+    "item:mekanism:mekasuit_pants{mekData:{EnergyContainers:[{Container:0b,stored:\"16000000\"}]}}",
+    "item:mekanism:mekasuit_boots",
+    "item:mekanism:mekasuit_boots{mekData:{EnergyContainers:[{Container:0b,stored:\"16000000\"}]}}",
+    "item:mekanism:flamethrower",
+    "item:mekanism:flamethrower{mekData:{GasTanks:[{Tank:0b,stored:{amount:24000L,gasName:\"mekanism:hydrogen\"}}]}}"
+  ]
+}
