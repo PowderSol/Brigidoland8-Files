@@ -1,5 +1,5 @@
 {
-  "version": "0.0.1",
+  "version": "1.0.0",
   "rss": "<LINK TO RSS FEED>",
   "discord": {
     "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
@@ -9,9 +9,9 @@
   "servers": [
     {
       "id": "Brigidoland-8-1.20.1",
-      "name": "Brigidoland 8 (Minecraft 1.20.1)",
+      "name": "Brigidoland-8 (Minecraft 1.20.1)",
       "description": "Que onda pibes hice un modpack devuelta -Atte, Powder",
-      "icon": null,
+      "icon": "https://powdersol.github.io/Brigidoland8-Files/servers/Brigidoland-8-1.20.1/SealCircle.png",
       "version": "0.0.1",
       "address": "localhost:25565",
       "minecraftVersion": "1.20.1",
@@ -83233,9 +83233,9 @@
           "name": "en_US.lang",
           "type": "File",
           "artifact": {
-            "size": 120621,
+            "size": 120614,
             "url": "https://powdersol.github.io/Brigidoland8-Files/servers/Brigidoland-8-1.20.1/files/shaderpacks/ComplementaryReimagined_r5.5.1%20+%20EuphoriaPatches_1.6.5/shaders/lang/en_US.lang",
-            "MD5": "514396b1cd84b93a40d7d7222ad4f42e",
+            "MD5": "093c7b257ebe6d27d861c2bfa7366b0d",
             "path": "shaderpacks/ComplementaryReimagined_r5.5.1 + EuphoriaPatches_1.6.5/shaders/lang/en_US.lang"
           }
         },
@@ -83244,9 +83244,9 @@
           "name": "ja_JP.lang",
           "type": "File",
           "artifact": {
-            "size": 139376,
+            "size": 139369,
             "url": "https://powdersol.github.io/Brigidoland8-Files/servers/Brigidoland-8-1.20.1/files/shaderpacks/ComplementaryReimagined_r5.5.1%20+%20EuphoriaPatches_1.6.5/shaders/lang/ja_JP.lang",
-            "MD5": "dfd73910de21276821121de9bc1ae7aa",
+            "MD5": "c16cf54ae8ad82f34d69a43f8494af47",
             "path": "shaderpacks/ComplementaryReimagined_r5.5.1 + EuphoriaPatches_1.6.5/shaders/lang/ja_JP.lang"
           }
         },
@@ -83255,9 +83255,9 @@
           "name": "pl_PL.lang",
           "type": "File",
           "artifact": {
-            "size": 128392,
+            "size": 128385,
             "url": "https://powdersol.github.io/Brigidoland8-Files/servers/Brigidoland-8-1.20.1/files/shaderpacks/ComplementaryReimagined_r5.5.1%20+%20EuphoriaPatches_1.6.5/shaders/lang/pl_PL.lang",
-            "MD5": "30a30cfdcef7a0b3490d7a533255eea0",
+            "MD5": "2d1ed69801570bfe047fcbbbfcc9b3b0",
             "path": "shaderpacks/ComplementaryReimagined_r5.5.1 + EuphoriaPatches_1.6.5/shaders/lang/pl_PL.lang"
           }
         },
@@ -83266,9 +83266,9 @@
           "name": "ru_RU.lang",
           "type": "File",
           "artifact": {
-            "size": 160419,
+            "size": 160412,
             "url": "https://powdersol.github.io/Brigidoland8-Files/servers/Brigidoland-8-1.20.1/files/shaderpacks/ComplementaryReimagined_r5.5.1%20+%20EuphoriaPatches_1.6.5/shaders/lang/ru_RU.lang",
-            "MD5": "ec980709e5bb84643e909d8628da7fee",
+            "MD5": "b5e812031903e07717a972272e01c91d",
             "path": "shaderpacks/ComplementaryReimagined_r5.5.1 + EuphoriaPatches_1.6.5/shaders/lang/ru_RU.lang"
           }
         },
@@ -83277,9 +83277,9 @@
           "name": "uk_UA.lang",
           "type": "File",
           "artifact": {
-            "size": 171852,
+            "size": 171843,
             "url": "https://powdersol.github.io/Brigidoland8-Files/servers/Brigidoland-8-1.20.1/files/shaderpacks/ComplementaryReimagined_r5.5.1%20+%20EuphoriaPatches_1.6.5/shaders/lang/uk_UA.lang",
-            "MD5": "13044ff75afe1ff30bc652d9b8f3ea51",
+            "MD5": "640fdc3df0065158dc81881eadf67083",
             "path": "shaderpacks/ComplementaryReimagined_r5.5.1 + EuphoriaPatches_1.6.5/shaders/lang/uk_UA.lang"
           }
         },
@@ -83288,9 +83288,9 @@
           "name": "zh_CN.lang",
           "type": "File",
           "artifact": {
-            "size": 117204,
+            "size": 117197,
             "url": "https://powdersol.github.io/Brigidoland8-Files/servers/Brigidoland-8-1.20.1/files/shaderpacks/ComplementaryReimagined_r5.5.1%20+%20EuphoriaPatches_1.6.5/shaders/lang/zh_CN.lang",
-            "MD5": "f5cb0a690ef5134e57d6c4d8777266b8",
+            "MD5": "27b761e75dab7290a727763167191d57",
             "path": "shaderpacks/ComplementaryReimagined_r5.5.1 + EuphoriaPatches_1.6.5/shaders/lang/zh_CN.lang"
           }
         },
@@ -86016,9 +86016,9 @@
           "name": "shaders.properties",
           "type": "File",
           "artifact": {
-            "size": 66671,
+            "size": 66669,
             "url": "https://powdersol.github.io/Brigidoland8-Files/servers/Brigidoland-8-1.20.1/files/shaderpacks/ComplementaryReimagined_r5.5.1%20+%20EuphoriaPatches_1.6.5/shaders/shaders.properties",
-            "MD5": "6cb8f24a9c984b34c8a0e5b31bbe7058",
+            "MD5": "f8a53bfa5a27767b9b2bdf4c8c413c61",
             "path": "shaderpacks/ComplementaryReimagined_r5.5.1 + EuphoriaPatches_1.6.5/shaders/shaders.properties"
           }
         },
