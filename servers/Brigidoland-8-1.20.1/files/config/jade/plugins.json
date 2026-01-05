@@ -59,6 +59,13 @@
     "model_variant.locked": false,
     "paygate": true
   },
+  "tombstone": {
+    "decorative_graves": true,
+    "player_graves": true
+  },
+  "bonsaitrees3": {
+    "bonsaipot": true
+  },
   "jade": {
     "coordinates.rel": false,
     "distance": false,
@@ -86,8 +93,24 @@
   "jadeaddons": {
     "equipment_requirement": ""
   },
+  "projecte": {
+    "emc_provider": true
+  },
+  "mekanism": {
+    "infuse_type": true,
+    "gas": true,
+    "remove_builtin": true,
+    "pigment": true,
+    "fluid": true,
+    "slurry": true,
+    "energy": true,
+    "tooltip_renderer": true
+  },
   "jadeaddons.lootr": {
     "info": true
+  },
+  "projectexpansion": {
+    "provider": true
   },
   "twilightforest": {
     "quest_ram_wool": true
@@ -105,5 +128,11 @@
     "preservation_chamber": true,
     "milk_jar": true,
     "toaster": true
+  },
+  "storagedrawers": {
+    "display.stacklimit": true,
+    "main": true,
+    "display.content": true,
+    "display.status": true
   }
 }

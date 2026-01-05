@@ -6185,6 +6185,28 @@
           }
         },
         {
+          "id": "bonsaitrees3-client.toml",
+          "name": "bonsaitrees3-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 92,
+            "url": "https://powdersol.github.io/Brigidoland8-Files/servers/Brigidoland-8-1.20.1/files/config/bonsaitrees3-client.toml",
+            "MD5": "e928f1941e93fcdd12524a5298196d3a",
+            "path": "config/bonsaitrees3-client.toml"
+          }
+        },
+        {
+          "id": "bonsaitrees3-common.toml",
+          "name": "bonsaitrees3-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 2017,
+            "url": "https://powdersol.github.io/Brigidoland8-Files/servers/Brigidoland-8-1.20.1/files/config/bonsaitrees3-common.toml",
+            "MD5": "3dc46a8b266cbb924df8ddb72d80ec55",
+            "path": "config/bonsaitrees3-common.toml"
+          }
+        },
+        {
           "id": "borninconfiguration-general.toml",
           "name": "borninconfiguration-general.toml",
           "type": "File",
@@ -6691,6 +6713,17 @@
           }
         },
         {
+          "id": "croptopia_v3.conf",
+          "name": "croptopia_v3.conf",
+          "type": "File",
+          "artifact": {
+            "size": 13630,
+            "url": "https://powdersol.github.io/Brigidoland8-Files/servers/Brigidoland-8-1.20.1/files/config/croptopia/croptopia_v3.conf",
+            "MD5": "38415c0fb8215562510437175ec33986",
+            "path": "config/croptopia/croptopia_v3.conf"
+          }
+        },
+        {
           "id": "cuisinedelight-client.toml",
           "name": "cuisinedelight-client.toml",
           "type": "File",
@@ -6818,7 +6851,7 @@
           "artifact": {
             "size": 2526,
             "url": "https://powdersol.github.io/Brigidoland8-Files/servers/Brigidoland-8-1.20.1/files/config/defaultoptions/options.txt",
-            "MD5": "3d9203d89256d043eb2016594301c17e",
+            "MD5": "a5e30e8c0541a801a4bfaad49b2fc400",
             "path": "config/defaultoptions/options.txt"
           }
         },
@@ -6829,7 +6862,7 @@
           "artifact": {
             "size": 15604,
             "url": "https://powdersol.github.io/Brigidoland8-Files/servers/Brigidoland-8-1.20.1/files/config/defaultoptions/options_defaults.txt",
-            "MD5": "c09fae80b00e00d4a99bcd41685eb6dc",
+            "MD5": "fbd4f7d6a132b705d2e9660691f9ad07",
             "path": "config/defaultoptions/options_defaults.txt"
           }
         },
@@ -6860,9 +6893,9 @@
           "name": "defaultoptions-common.toml",
           "type": "File",
           "artifact": {
-            "size": 381,
+            "size": 379,
             "url": "https://powdersol.github.io/Brigidoland8-Files/servers/Brigidoland-8-1.20.1/files/config/defaultoptions-common.toml",
-            "MD5": "083d969a19f2ff58483dcb436a18cbdd",
+            "MD5": "dd3f9ba5a82b1ba3faa05a0b52abaa2b",
             "path": "config/defaultoptions-common.toml"
           }
         },
@@ -7027,7 +7060,7 @@
           "artifact": {
             "size": 427,
             "url": "https://powdersol.github.io/Brigidoland8-Files/servers/Brigidoland-8-1.20.1/files/config/embeddium-fingerprint.json",
-            "MD5": "9a6a0082f148d05a008d21e0b22ec561",
+            "MD5": "d2a4ebf1db0cc93f58b7ad9a43e11f1f",
             "path": "config/embeddium-fingerprint.json"
           }
         },
@@ -7047,9 +7080,9 @@
           "name": "embeddium-options.json",
           "type": "File",
           "artifact": {
-            "size": 851,
+            "size": 852,
             "url": "https://powdersol.github.io/Brigidoland8-Files/servers/Brigidoland-8-1.20.1/files/config/embeddium-options.json",
-            "MD5": "1d15d6fc42c8aa5cd5f1dde75b4ae5f3",
+            "MD5": "c0a96a9199ece4278654cf6e1fb2584c",
             "path": "config/embeddium-options.json"
           }
         },
@@ -9797,9 +9830,9 @@
           "name": "es_mx.json",
           "type": "File",
           "artifact": {
-            "size": 23966,
+            "size": 20873,
             "url": "https://powdersol.github.io/Brigidoland8-Files/servers/Brigidoland-8-1.20.1/files/config/flan/lang/es_mx.json",
-            "MD5": "f2a5240df17855323c34178d820ca04d",
+            "MD5": "e7c8c6651b30efdcb63098c89707d4a1",
             "path": "config/flan/lang/es_mx.json"
           }
         },
@@ -9885,9 +9918,9 @@
           "name": "fml.toml",
           "type": "File",
           "artifact": {
-            "size": 1148,
+            "size": 1147,
             "url": "https://powdersol.github.io/Brigidoland8-Files/servers/Brigidoland-8-1.20.1/files/config/fml.toml",
-            "MD5": "783d5f5e55fc91951e5e234d72980761",
+            "MD5": "69de99a0b6537f52ae3c9c239d7f0e42",
             "path": "config/fml.toml"
           }
         },
@@ -11328,7 +11361,7 @@
           "artifact": {
             "size": 15915,
             "url": "https://powdersol.github.io/Brigidoland8-Files/servers/Brigidoland-8-1.20.1/files/config/iceandfire-common.toml",
-            "MD5": "074ee3395d1e549395fd3898d8656fa0",
+            "MD5": "fbed19f6e7c76ffa8c9a103cc4764c1f",
             "path": "config/iceandfire-common.toml"
           }
         },
@@ -11546,9 +11579,9 @@
           "name": "curios.json",
           "type": "File",
           "artifact": {
-            "size": 1296,
+            "size": 1594,
             "url": "https://powdersol.github.io/Brigidoland8-Files/servers/Brigidoland-8-1.20.1/files/config/InventoryHUD/curios.json",
-            "MD5": "923e14449f6c7a6e2c31077e5f176221",
+            "MD5": "bce4e93da0254d341b622e88032cdaa4",
             "path": "config/InventoryHUD/curios.json"
           }
         },
@@ -11766,9 +11799,9 @@
           "name": "plugins.json",
           "type": "File",
           "artifact": {
-            "size": 2573,
+            "size": 3128,
             "url": "https://powdersol.github.io/Brigidoland8-Files/servers/Brigidoland-8-1.20.1/files/config/jade/plugins.json",
-            "MD5": "cda098ea9dfde1fe3e1d2f7b46ea8cb8",
+            "MD5": "f08dcc42f22d5744013cfd57c2f6e2e2",
             "path": "config/jade/plugins.json"
           }
         },
@@ -11777,9 +11810,9 @@
           "name": "sort-order.json",
           "type": "File",
           "artifact": {
-            "size": 3147,
+            "size": 3503,
             "url": "https://powdersol.github.io/Brigidoland8-Files/servers/Brigidoland-8-1.20.1/files/config/jade/sort-order.json",
-            "MD5": "e9d07bb218302281b7a2945bb5cad646",
+            "MD5": "f6d3e75097965c96551278b3ef9d18b5",
             "path": "config/jade/sort-order.json"
           }
         },
@@ -11876,9 +11909,9 @@
           "name": "recipe-category-sort-order.ini",
           "type": "File",
           "artifact": {
-            "size": 1207,
+            "size": 2319,
             "url": "https://powdersol.github.io/Brigidoland8-Files/servers/Brigidoland-8-1.20.1/files/config/jei/recipe-category-sort-order.ini",
-            "MD5": "f4824e935852be9c907a3980f3b71d66",
+            "MD5": "fe69136fd8645d45461fbe419e56d4c0",
             "path": "config/jei/recipe-category-sort-order.ini"
           }
         },
@@ -12287,6 +12320,94 @@
             "url": "https://powdersol.github.io/Brigidoland8-Files/servers/Brigidoland-8-1.20.1/files/config/mca.json",
             "MD5": "abde1960dc95fa716b64693590bb3a71",
             "path": "config/mca.json"
+          }
+        },
+        {
+          "id": "client.toml",
+          "name": "client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 4293,
+            "url": "https://powdersol.github.io/Brigidoland8-Files/servers/Brigidoland-8-1.20.1/files/config/Mekanism/client.toml",
+            "MD5": "133dd9c15cadf369caaf6b458fac3a1d",
+            "path": "config/Mekanism/client.toml"
+          }
+        },
+        {
+          "id": "common.toml",
+          "name": "common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 693,
+            "url": "https://powdersol.github.io/Brigidoland8-Files/servers/Brigidoland-8-1.20.1/files/config/Mekanism/common.toml",
+            "MD5": "a437213c24a59ed7463ddaa2510d0213",
+            "path": "config/Mekanism/common.toml"
+          }
+        },
+        {
+          "id": "gear.toml",
+          "name": "gear.toml",
+          "type": "File",
+          "artifact": {
+            "size": 12489,
+            "url": "https://powdersol.github.io/Brigidoland8-Files/servers/Brigidoland-8-1.20.1/files/config/Mekanism/gear.toml",
+            "MD5": "e74a535bca748cb2c77f5bc62002613c",
+            "path": "config/Mekanism/gear.toml"
+          }
+        },
+        {
+          "id": "general.toml",
+          "name": "general.toml",
+          "type": "File",
+          "artifact": {
+            "size": 11273,
+            "url": "https://powdersol.github.io/Brigidoland8-Files/servers/Brigidoland-8-1.20.1/files/config/Mekanism/general.toml",
+            "MD5": "8e5854cf893ce9c189f1481b20e08b96",
+            "path": "config/Mekanism/general.toml"
+          }
+        },
+        {
+          "id": "machine-storage.toml",
+          "name": "machine-storage.toml",
+          "type": "File",
+          "artifact": {
+            "size": 2424,
+            "url": "https://powdersol.github.io/Brigidoland8-Files/servers/Brigidoland-8-1.20.1/files/config/Mekanism/machine-storage.toml",
+            "MD5": "7366658b8ed8b3f8e6fbe8e1f0b3cea3",
+            "path": "config/Mekanism/machine-storage.toml"
+          }
+        },
+        {
+          "id": "machine-usage.toml",
+          "name": "machine-usage.toml",
+          "type": "File",
+          "artifact": {
+            "size": 2614,
+            "url": "https://powdersol.github.io/Brigidoland8-Files/servers/Brigidoland-8-1.20.1/files/config/Mekanism/machine-usage.toml",
+            "MD5": "27d8efc2ff4b922be0dd22c8bc3671aa",
+            "path": "config/Mekanism/machine-usage.toml"
+          }
+        },
+        {
+          "id": "tiers.toml",
+          "name": "tiers.toml",
+          "type": "File",
+          "artifact": {
+            "size": 9279,
+            "url": "https://powdersol.github.io/Brigidoland8-Files/servers/Brigidoland-8-1.20.1/files/config/Mekanism/tiers.toml",
+            "MD5": "4a170c12ae548fd21bcdbeb79c01c8f7",
+            "path": "config/Mekanism/tiers.toml"
+          }
+        },
+        {
+          "id": "world.toml",
+          "name": "world.toml",
+          "type": "File",
+          "artifact": {
+            "size": 18322,
+            "url": "https://powdersol.github.io/Brigidoland8-Files/servers/Brigidoland-8-1.20.1/files/config/Mekanism/world.toml",
+            "MD5": "815e256ca8b3678f60a6e427cbecec6f",
+            "path": "config/Mekanism/world.toml"
           }
         },
         {
@@ -12778,9 +12899,9 @@
           "name": "oculus.properties",
           "type": "File",
           "artifact": {
-            "size": 309,
+            "size": 305,
             "url": "https://powdersol.github.io/Brigidoland8-Files/servers/Brigidoland-8-1.20.1/files/config/oculus.properties",
-            "MD5": "f33be4b60c6adf2f020b8b7332ec7fcd",
+            "MD5": "7d33dffe37b7023fa98e8bae5777fd3e",
             "path": "config/oculus.properties"
           }
         },
@@ -79737,7 +79858,7 @@
           "artifact": {
             "size": 510,
             "url": "https://powdersol.github.io/Brigidoland8-Files/servers/Brigidoland-8-1.20.1/files/config/packetfixer.properties",
-            "MD5": "01894a83e8782289627f33e0b174050d",
+            "MD5": "6895c1d0626f8f3cd37c6abef58506d0",
             "path": "config/packetfixer.properties"
           }
         },
@@ -79838,6 +79959,17 @@
             "url": "https://powdersol.github.io/Brigidoland8-Files/servers/Brigidoland-8-1.20.1/files/config/profession_shop.json",
             "MD5": "7d973164a2cbe863d6a07f5308445a29",
             "path": "config/profession_shop.json"
+          }
+        },
+        {
+          "id": "project-expansion.toml",
+          "name": "project-expansion.toml",
+          "type": "File",
+          "artifact": {
+            "size": 3394,
+            "url": "https://powdersol.github.io/Brigidoland8-Files/servers/Brigidoland-8-1.20.1/files/config/project-expansion.toml",
+            "MD5": "c69aab5bf5e1e479bc7dd49e271dc475",
+            "path": "config/project-expansion.toml"
           }
         },
         {
@@ -80413,6 +80545,28 @@
           }
         },
         {
+          "id": "ribbits-forge-1_20_1.toml",
+          "name": "ribbits-forge-1_20_1.toml",
+          "type": "File",
+          "artifact": {
+            "size": 420,
+            "url": "https://powdersol.github.io/Brigidoland8-Files/servers/Brigidoland-8-1.20.1/files/config/ribbits-forge-1_20_1.toml",
+            "MD5": "4b57563a2443f77237131e71fc22f6e5",
+            "path": "config/ribbits-forge-1_20_1.toml"
+          }
+        },
+        {
+          "id": "ribbits-options.json",
+          "name": "ribbits-options.json",
+          "type": "File",
+          "artifact": {
+            "size": 33,
+            "url": "https://powdersol.github.io/Brigidoland8-Files/servers/Brigidoland-8-1.20.1/files/config/ribbits-options.json",
+            "MD5": "ae7a8e3293c7c466d1210c5de3459a52",
+            "path": "config/ribbits-options.json"
+          }
+        },
+        {
           "id": "rightclickharvest-common.toml",
           "name": "rightclickharvest-common.toml",
           "type": "File",
@@ -80527,9 +80681,9 @@
           "name": "shouldersurfing-client.toml",
           "type": "File",
           "artifact": {
-            "size": 17279,
+            "size": 17275,
             "url": "https://powdersol.github.io/Brigidoland8-Files/servers/Brigidoland-8-1.20.1/files/config/shouldersurfing-client.toml",
-            "MD5": "9cf4232d2d69d52793e8c4431dbc828c",
+            "MD5": "ab66c70e598ede316a8b06c86d5dcf60",
             "path": "config/shouldersurfing-client.toml"
           }
         },
@@ -80758,9 +80912,9 @@
           "name": "chat.json",
           "type": "File",
           "artifact": {
-            "size": 591,
+            "size": 607,
             "url": "https://powdersol.github.io/Brigidoland8-Files/servers/Brigidoland-8-1.20.1/files/config/sounds/chat.json",
-            "MD5": "3b835d389d6fe2a9aa3190992f0204fd",
+            "MD5": "dd7c4d182c30fb8ba358a04a2bc3571f",
             "path": "config/sounds/chat.json"
           }
         },
@@ -80828,6 +80982,17 @@
             "url": "https://powdersol.github.io/Brigidoland8-Files/servers/Brigidoland-8-1.20.1/files/config/spark/config.json",
             "MD5": "fd707ecbb3f9675d81535e88b7712d0b",
             "path": "config/spark/config.json"
+          }
+        },
+        {
+          "id": "squatgrow-common.yaml",
+          "name": "squatgrow-common.yaml",
+          "type": "File",
+          "artifact": {
+            "size": 635,
+            "url": "https://powdersol.github.io/Brigidoland8-Files/servers/Brigidoland-8-1.20.1/files/config/squatgrow-common.yaml",
+            "MD5": "a54522c666f9ab95fc5b1c6a3ac43f35",
+            "path": "config/squatgrow-common.yaml"
           }
         },
         {
@@ -80949,6 +81114,28 @@
             "url": "https://powdersol.github.io/Brigidoland8-Files/servers/Brigidoland-8-1.20.1/files/config/starterkit.json5",
             "MD5": "e927a90b4ad7cbfaf060cc9691e1af4d",
             "path": "config/starterkit.json5"
+          }
+        },
+        {
+          "id": "storagedrawers-client.toml",
+          "name": "storagedrawers-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 941,
+            "url": "https://powdersol.github.io/Brigidoland8-Files/servers/Brigidoland-8-1.20.1/files/config/storagedrawers-client.toml",
+            "MD5": "3b77b9d58f0fa20c2c424d69671bbcb2",
+            "path": "config/storagedrawers-client.toml"
+          }
+        },
+        {
+          "id": "storagedrawers-common.v2.toml",
+          "name": "storagedrawers-common.v2.toml",
+          "type": "File",
+          "artifact": {
+            "size": 14565,
+            "url": "https://powdersol.github.io/Brigidoland8-Files/servers/Brigidoland-8-1.20.1/files/config/storagedrawers-common.v2.toml",
+            "MD5": "26220096d2e80c63fd098c6b269ce5f9",
+            "path": "config/storagedrawers-common.v2.toml"
           }
         },
         {
@@ -81194,6 +81381,160 @@
           }
         },
         {
+          "id": "tombstone-pool-abandoned_grave.json",
+          "name": "tombstone-pool-abandoned_grave.json",
+          "type": "File",
+          "artifact": {
+            "size": 2368,
+            "url": "https://powdersol.github.io/Brigidoland8-Files/servers/Brigidoland-8-1.20.1/files/config/tombstone/loottables/tombstone-pool-abandoned_grave.json",
+            "MD5": "ac65c5a2d7736503a4920554991cb3a4",
+            "path": "config/tombstone/loottables/tombstone-pool-abandoned_grave.json"
+          }
+        },
+        {
+          "id": "tombstone-pool-archaeology.json",
+          "name": "tombstone-pool-archaeology.json",
+          "type": "File",
+          "artifact": {
+            "size": 1768,
+            "url": "https://powdersol.github.io/Brigidoland8-Files/servers/Brigidoland-8-1.20.1/files/config/tombstone/loottables/tombstone-pool-archaeology.json",
+            "MD5": "4f8b3a14f2018c229d0ec1cd5af60fca",
+            "path": "config/tombstone/loottables/tombstone-pool-archaeology.json"
+          }
+        },
+        {
+          "id": "tombstone-pool-cat_morning.json",
+          "name": "tombstone-pool-cat_morning.json",
+          "type": "File",
+          "artifact": {
+            "size": 1345,
+            "url": "https://powdersol.github.io/Brigidoland8-Files/servers/Brigidoland-8-1.20.1/files/config/tombstone/loottables/tombstone-pool-cat_morning.json",
+            "MD5": "aec5e8bd585bad2bd36b3b003f94c006",
+            "path": "config/tombstone/loottables/tombstone-pool-cat_morning.json"
+          }
+        },
+        {
+          "id": "tombstone-pool-chest_treasure.json",
+          "name": "tombstone-pool-chest_treasure.json",
+          "type": "File",
+          "artifact": {
+            "size": 2132,
+            "url": "https://powdersol.github.io/Brigidoland8-Files/servers/Brigidoland-8-1.20.1/files/config/tombstone/loottables/tombstone-pool-chest_treasure.json",
+            "MD5": "fa5e6daf4ed5187368ee3c4392547f09",
+            "path": "config/tombstone/loottables/tombstone-pool-chest_treasure.json"
+          }
+        },
+        {
+          "id": "tombstone-pool-lost_treasure.json",
+          "name": "tombstone-pool-lost_treasure.json",
+          "type": "File",
+          "artifact": {
+            "size": 3122,
+            "url": "https://powdersol.github.io/Brigidoland8-Files/servers/Brigidoland-8-1.20.1/files/config/tombstone/loottables/tombstone-pool-lost_treasure.json",
+            "MD5": "d20392eb3725e8d176669e50d63b8a8b",
+            "path": "config/tombstone/loottables/tombstone-pool-lost_treasure.json"
+          }
+        },
+        {
+          "id": "tombstone-pool-seeker_rod.json",
+          "name": "tombstone-pool-seeker_rod.json",
+          "type": "File",
+          "artifact": {
+            "size": 1403,
+            "url": "https://powdersol.github.io/Brigidoland8-Files/servers/Brigidoland-8-1.20.1/files/config/tombstone/loottables/tombstone-pool-seeker_rod.json",
+            "MD5": "5b77c1dbfef6cfaab55a0462022ae5f7",
+            "path": "config/tombstone/loottables/tombstone-pool-seeker_rod.json"
+          }
+        },
+        {
+          "id": "tombstone-pool-sniffer_digging.json",
+          "name": "tombstone-pool-sniffer_digging.json",
+          "type": "File",
+          "artifact": {
+            "size": 362,
+            "url": "https://powdersol.github.io/Brigidoland8-Files/servers/Brigidoland-8-1.20.1/files/config/tombstone/loottables/tombstone-pool-sniffer_digging.json",
+            "MD5": "536dd2880f2deeb9910f9229c6f14e43",
+            "path": "config/tombstone/loottables/tombstone-pool-sniffer_digging.json"
+          }
+        },
+        {
+          "id": "tombstone-pool-undead_boss.json",
+          "name": "tombstone-pool-undead_boss.json",
+          "type": "File",
+          "artifact": {
+            "size": 1950,
+            "url": "https://powdersol.github.io/Brigidoland8-Files/servers/Brigidoland-8-1.20.1/files/config/tombstone/loottables/tombstone-pool-undead_boss.json",
+            "MD5": "9c8ffc8e49a2587e72b249762c33e6db",
+            "path": "config/tombstone/loottables/tombstone-pool-undead_boss.json"
+          }
+        },
+        {
+          "id": "tombstone-pool-undead_mob.json",
+          "name": "tombstone-pool-undead_mob.json",
+          "type": "File",
+          "artifact": {
+            "size": 1484,
+            "url": "https://powdersol.github.io/Brigidoland8-Files/servers/Brigidoland-8-1.20.1/files/config/tombstone/loottables/tombstone-pool-undead_mob.json",
+            "MD5": "a21b3af5604ae7e368ee28209b63f828",
+            "path": "config/tombstone/loottables/tombstone-pool-undead_mob.json"
+          }
+        },
+        {
+          "id": "tombstone-table-chest_treasure.json",
+          "name": "tombstone-table-chest_treasure.json",
+          "type": "File",
+          "artifact": {
+            "size": 959,
+            "url": "https://powdersol.github.io/Brigidoland8-Files/servers/Brigidoland-8-1.20.1/files/config/tombstone/loottables/tombstone-table-chest_treasure.json",
+            "MD5": "a3be46186b1e72c29f66084fa8104d11",
+            "path": "config/tombstone/loottables/tombstone-table-chest_treasure.json"
+          }
+        },
+        {
+          "id": "version.info",
+          "name": "version.info",
+          "type": "File",
+          "artifact": {
+            "size": 5,
+            "url": "https://powdersol.github.io/Brigidoland8-Files/servers/Brigidoland-8-1.20.1/files/config/tombstone/version.info",
+            "MD5": "2bd27cf1163a86ffee4b59583e6785da",
+            "path": "config/tombstone/version.info"
+          }
+        },
+        {
+          "id": "tombstone-client.toml",
+          "name": "tombstone-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 4199,
+            "url": "https://powdersol.github.io/Brigidoland8-Files/servers/Brigidoland-8-1.20.1/files/config/tombstone-client.toml",
+            "MD5": "023da16a1d5a3364ba37c2d68fae17f6",
+            "path": "config/tombstone-client.toml"
+          }
+        },
+        {
+          "id": "tombstone-common.toml",
+          "name": "tombstone-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 9204,
+            "url": "https://powdersol.github.io/Brigidoland8-Files/servers/Brigidoland-8-1.20.1/files/config/tombstone-common.toml",
+            "MD5": "bd6d12b09da315ad7ed366b2690fe64a",
+            "path": "config/tombstone-common.toml"
+          }
+        },
+        {
+          "id": "tombstone-server.toml",
+          "name": "tombstone-server.toml",
+          "type": "File",
+          "artifact": {
+            "size": 8025,
+            "url": "https://powdersol.github.io/Brigidoland8-Files/servers/Brigidoland-8-1.20.1/files/config/tombstone-server.toml",
+            "MD5": "19fb479a484b29e93efbb8004784bf0d",
+            "path": "config/tombstone-server.toml"
+          }
+        },
+        {
           "id": "toolstats.json",
           "name": "toolstats.json",
           "type": "File",
@@ -81268,6 +81609,17 @@
             "url": "https://powdersol.github.io/Brigidoland8-Files/servers/Brigidoland-8-1.20.1/files/config/transmog.json",
             "MD5": "6c35ddab380b770cce9c9d84304504da",
             "path": "config/transmog.json"
+          }
+        },
+        {
+          "id": "trashcans-common.toml",
+          "name": "trashcans-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 84,
+            "url": "https://powdersol.github.io/Brigidoland8-Files/servers/Brigidoland-8-1.20.1/files/config/trashcans-common.toml",
+            "MD5": "a219f1ffd4bc7d59a03a7de7f41174b5",
+            "path": "config/trashcans-common.toml"
           }
         },
         {
@@ -82019,6 +82371,17 @@
           }
         },
         {
+          "id": "alchemical_collection.json",
+          "name": "alchemical_collection.json",
+          "type": "File",
+          "artifact": {
+            "size": 126,
+            "url": "https://powdersol.github.io/Brigidoland8-Files/servers/Brigidoland-8-1.20.1/files/config/universalenchants/projectexpansion/alchemical_collection.json",
+            "MD5": "1b2b19eb151bc927ca5d69cfcb48a291",
+            "path": "config/universalenchants/projectexpansion/alchemical_collection.json"
+          }
+        },
+        {
           "id": "lightning_strike.json",
           "name": "lightning_strike.json",
           "type": "File",
@@ -82049,6 +82412,138 @@
             "url": "https://powdersol.github.io/Brigidoland8-Files/servers/Brigidoland-8-1.20.1/files/config/universalenchants/supplementaries/stasis.json",
             "MD5": "21b5427ea6a527e45a39aeda58efa79a",
             "path": "config/universalenchants/supplementaries/stasis.json"
+          }
+        },
+        {
+          "id": "blessing.json",
+          "name": "blessing.json",
+          "type": "File",
+          "artifact": {
+            "size": 162,
+            "url": "https://powdersol.github.io/Brigidoland8-Files/servers/Brigidoland-8-1.20.1/files/config/universalenchants/tombstone/blessing.json",
+            "MD5": "888b3b247b538dded56029f113628244",
+            "path": "config/universalenchants/tombstone/blessing.json"
+          }
+        },
+        {
+          "id": "curse_of_bones.json",
+          "name": "curse_of_bones.json",
+          "type": "File",
+          "artifact": {
+            "size": 93,
+            "url": "https://powdersol.github.io/Brigidoland8-Files/servers/Brigidoland-8-1.20.1/files/config/universalenchants/tombstone/curse_of_bones.json",
+            "MD5": "d32e96d407ed4b4198b940ab167eb846",
+            "path": "config/universalenchants/tombstone/curse_of_bones.json"
+          }
+        },
+        {
+          "id": "decrepitude.json",
+          "name": "decrepitude.json",
+          "type": "File",
+          "artifact": {
+            "size": 108,
+            "url": "https://powdersol.github.io/Brigidoland8-Files/servers/Brigidoland-8-1.20.1/files/config/universalenchants/tombstone/decrepitude.json",
+            "MD5": "e3a47cce4bbfaab257decc2d7e3d9dd3",
+            "path": "config/universalenchants/tombstone/decrepitude.json"
+          }
+        },
+        {
+          "id": "frostbite.json",
+          "name": "frostbite.json",
+          "type": "File",
+          "artifact": {
+            "size": 139,
+            "url": "https://powdersol.github.io/Brigidoland8-Files/servers/Brigidoland-8-1.20.1/files/config/universalenchants/tombstone/frostbite.json",
+            "MD5": "ba14b347006ed0d47599be889f7c55bc",
+            "path": "config/universalenchants/tombstone/frostbite.json"
+          }
+        },
+        {
+          "id": "incurable_wounds.json",
+          "name": "incurable_wounds.json",
+          "type": "File",
+          "artifact": {
+            "size": 108,
+            "url": "https://powdersol.github.io/Brigidoland8-Files/servers/Brigidoland-8-1.20.1/files/config/universalenchants/tombstone/incurable_wounds.json",
+            "MD5": "e3a47cce4bbfaab257decc2d7e3d9dd3",
+            "path": "config/universalenchants/tombstone/incurable_wounds.json"
+          }
+        },
+        {
+          "id": "magic_siphon.json",
+          "name": "magic_siphon.json",
+          "type": "File",
+          "artifact": {
+            "size": 142,
+            "url": "https://powdersol.github.io/Brigidoland8-Files/servers/Brigidoland-8-1.20.1/files/config/universalenchants/tombstone/magic_siphon.json",
+            "MD5": "a553d04aa642c9b02ee1cd19cc9618bf",
+            "path": "config/universalenchants/tombstone/magic_siphon.json"
+          }
+        },
+        {
+          "id": "plague_bringer.json",
+          "name": "plague_bringer.json",
+          "type": "File",
+          "artifact": {
+            "size": 140,
+            "url": "https://powdersol.github.io/Brigidoland8-Files/servers/Brigidoland-8-1.20.1/files/config/universalenchants/tombstone/plague_bringer.json",
+            "MD5": "01fe879cc8886fcbc7a12b93524f226a",
+            "path": "config/universalenchants/tombstone/plague_bringer.json"
+          }
+        },
+        {
+          "id": "ruthless_strike.json",
+          "name": "ruthless_strike.json",
+          "type": "File",
+          "artifact": {
+            "size": 108,
+            "url": "https://powdersol.github.io/Brigidoland8-Files/servers/Brigidoland-8-1.20.1/files/config/universalenchants/tombstone/ruthless_strike.json",
+            "MD5": "e3a47cce4bbfaab257decc2d7e3d9dd3",
+            "path": "config/universalenchants/tombstone/ruthless_strike.json"
+          }
+        },
+        {
+          "id": "sanctified.json",
+          "name": "sanctified.json",
+          "type": "File",
+          "artifact": {
+            "size": 108,
+            "url": "https://powdersol.github.io/Brigidoland8-Files/servers/Brigidoland-8-1.20.1/files/config/universalenchants/tombstone/sanctified.json",
+            "MD5": "e3a47cce4bbfaab257decc2d7e3d9dd3",
+            "path": "config/universalenchants/tombstone/sanctified.json"
+          }
+        },
+        {
+          "id": "soulbound.json",
+          "name": "soulbound.json",
+          "type": "File",
+          "artifact": {
+            "size": 100,
+            "url": "https://powdersol.github.io/Brigidoland8-Files/servers/Brigidoland-8-1.20.1/files/config/universalenchants/tombstone/soulbound.json",
+            "MD5": "e947d7cb4f4b7772f9199f511868663e",
+            "path": "config/universalenchants/tombstone/soulbound.json"
+          }
+        },
+        {
+          "id": "spectral_bite.json",
+          "name": "spectral_bite.json",
+          "type": "File",
+          "artifact": {
+            "size": 118,
+            "url": "https://powdersol.github.io/Brigidoland8-Files/servers/Brigidoland-8-1.20.1/files/config/universalenchants/tombstone/spectral_bite.json",
+            "MD5": "1fa0d7746f85e4499b7a33dcbe8157b0",
+            "path": "config/universalenchants/tombstone/spectral_bite.json"
+          }
+        },
+        {
+          "id": "spectral_conjurer.json",
+          "name": "spectral_conjurer.json",
+          "type": "File",
+          "artifact": {
+            "size": 167,
+            "url": "https://powdersol.github.io/Brigidoland8-Files/servers/Brigidoland-8-1.20.1/files/config/universalenchants/tombstone/spectral_conjurer.json",
+            "MD5": "a766d23b58b3786fe6e75d5af159adfa",
+            "path": "config/universalenchants/tombstone/spectral_conjurer.json"
           }
         },
         {
@@ -82201,7 +82696,7 @@
           "artifact": {
             "size": 7708,
             "url": "https://powdersol.github.io/Brigidoland8-Files/servers/Brigidoland-8-1.20.1/files/config/vivecraft-client-config.json",
-            "MD5": "f24fa121e801eea2dce94511f7d9ff33",
+            "MD5": "75eb9b00e3d275ac93b235173b00ac26",
             "path": "config/vivecraft-client-config.json"
           }
         },
@@ -82377,7 +82872,7 @@
           "artifact": {
             "size": 4861,
             "url": "https://powdersol.github.io/Brigidoland8-Files/servers/Brigidoland-8-1.20.1/files/config/xaerominimap_entities.json",
-            "MD5": "87ba0f2ee6f5a241a125f04195c2893f",
+            "MD5": "b5a63a45f6dab5497c55c02197633330",
             "path": "config/xaerominimap_entities.json"
           }
         },
